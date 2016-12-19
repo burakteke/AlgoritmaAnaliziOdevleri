@@ -1,0 +1,9 @@
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\obj\Debug\GoruntuIsleme01.csprojResolveAssemblyReference.cache
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\obj\Debug\GoruntuIsleme01.csproj.GenerateResource.Cache
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Monster\Desktop\WindowsFormsApplication3-master - Kopya\WindowsFormsApplication3-master\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
