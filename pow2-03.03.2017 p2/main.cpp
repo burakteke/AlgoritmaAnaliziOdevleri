@@ -2,9 +2,10 @@
 #include <iostream>
 
 using namespace std;
-
-long pow(int x,int n)
+int m=0;
+long pow(long x,long n)
 {
+     m++;
      if(n==0) return 1;
      if(n==1) return x;
      if(n%2==0){
@@ -17,14 +18,15 @@ long pow(int x,int n)
 int main(int argc, char *argv[])
 {
     cout <<"taban";
-    int t;
+    long t;
     cin >> t;
     cout <<"us";
-    int u;
+    long u;
     cin >> u;
-    int s;
+    long s;
     s=pow(t,u);
-    cout << s;
+    cout << s << endl;
+    cout << "adim sayisi:" << m <<endl;
     system("PAUSE");
     return EXIT_SUCCESS;
 }
