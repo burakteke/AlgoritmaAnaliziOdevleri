@@ -6,6 +6,7 @@ using namespace std;
 
 
 // karmasıklıgı O(kN) dir
+
 int main()
 {
  int numbers, k, kvals[25], prevKvals[25], steps = 1, addition[25][100], count = 0, groups[25][100], min, groupnum, value, sum, ok = 1, nums[100];
